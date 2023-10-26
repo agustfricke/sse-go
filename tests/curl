@@ -1,0 +1,2 @@
+curl -X POST -H "Content-Type: application/json" -d "@data1.json" http://localhost:8080/test1
+curl -X POST -H "Content-Type: application/json" -d "@data2.json" http://localhost:8080/test2
